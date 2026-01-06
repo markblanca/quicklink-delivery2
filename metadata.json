@@ -1,0 +1,7 @@
+{
+  "name": "QuickLink Delivery Manager",
+  "description": "A comprehensive delivery management system for administrators to assign services and for delivery personnel to track their work, status, and earnings in real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
